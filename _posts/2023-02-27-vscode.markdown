@@ -1,7 +1,0 @@
----
-layout: post
-title:  "hello world 2 !"
-date:   2023-02-27
-categories: hello world 2
----
-hello world vscode ! 
